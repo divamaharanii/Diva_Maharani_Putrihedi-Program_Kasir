@@ -109,3 +109,5 @@ System.out.print("Terima Kasih Atas Kunjungan Anda");
 break;
 end if
 end
+
+Terima kasih
