@@ -1,0 +1,14 @@
+1.Mulai
+2.Pembeli datang ke toko dan memilih barang yang diinginkan
+3.Kasir menginput pilihan menu input data pembelian
+4.Kasir menginput susu yang dibeli berdasarkan kode yang sudah
+ditentukan pada program yang sudah di buat
+5.Program akan secara otomatis menghitung jumlah pembelian barang
+6.Diskon akan di berikan apabila pembeli membeli barang diatas 100.000
+7.Uang yang harus di bayarkan dihitung berdasarkan jumlah beli
+dikurangi diskon yang diberikan
+8.Pembeli memberikan uang untuk membayar
+9.Uang kembali dihitung berdasarkan uang bayar dikurangi jumlah
+yang harus dibayar
+10.Kasir memberikan barang yang sudah dibayar
+11.Berakhir
